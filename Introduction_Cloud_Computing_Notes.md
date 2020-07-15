@@ -1,12 +1,9 @@
 # Introduction to Cloud Computing
 
     ## Different Service Models
-
-<<<<<<< Updated upstream
+    
     Refer diagram below: <br/>
-=======
-    Refer diagram below:
->>>>>>> Stashed changes
+
     ![ServiceModels](https://github.com/nnsantosh/cloud_computing/blob/master/Cloud_Service_Models.jpg)
 
     1. Infrastructure as a service (IaaS)
