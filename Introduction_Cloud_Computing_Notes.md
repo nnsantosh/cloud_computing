@@ -1,8 +1,8 @@
 # Introduction to Cloud Computing
 
     ## Different Service Models
-    
-    Refer diagram below: <br/>
+
+    Refer diagram below:
 
     ![ServiceModels](https://github.com/nnsantosh/cloud_computing/blob/master/Cloud_Service_Models.jpg)
 
@@ -20,7 +20,7 @@
     ## Characteristics of Cloud Computing
 
     1. On-demand self service
-        A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without 
+        A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without
         requiring human interaction with each service provider.
 
     2. Broad Network access
