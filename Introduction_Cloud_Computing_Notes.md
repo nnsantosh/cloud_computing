@@ -19,7 +19,8 @@
     ## Characteristics of Cloud Computing
 
     1. On-demand self service
-        A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human           interaction with each service provider.
+        A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without 
+        requiring human interaction with each service provider.
 
     2. Broad Network access
         Capabilities are available over the network and accessed through standard mechanisms that promote use by heterogenous thin or thick client platforms(e.g.         mobile phones, tablets, laptops and workstations)
