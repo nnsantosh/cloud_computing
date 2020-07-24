@@ -4,7 +4,7 @@
 
     Refer diagram below:
 
-    ![ServiceModels](https://github.com/nnsantosh/cloud_computing/blob/master/Cloud_Service_Models.jpg)
+    [!ServiceModels](https://github.com/nnsantosh/cloud_computing/blob/master/Cloud_Service_Models.jpg)
 
     1. Infrastructure as a service (IaaS)
         Example: AWS EC2, Azure, rackspace
